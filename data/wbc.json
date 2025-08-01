@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=CgdbeptjA2M",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Grmlinn",
+            "link": "https://youtu.be/CTwo8L1ppF8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
