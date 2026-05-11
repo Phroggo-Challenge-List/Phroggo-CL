@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=dMF64M-KLWY",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/mGbvIQesb78cEFa2l?invite=cr-MSxpOGwsNTc1MDM1OTI1",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
