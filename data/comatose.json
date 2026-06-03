@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/9MTMl5GaHEc",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Metal",
+            "link": "https://medal.tv/games/geometry-dash/clips/mOwQIWjuWOV83xwWF?invite=cr-MSxOYVAsNDc0NzU4NTcw&v=21",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
