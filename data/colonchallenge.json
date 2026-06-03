@@ -10,7 +10,13 @@
         {
             "user": "JayGol",
             "link": "https://medal.tv/games/geometry-dash/clips/mGc5ThjXhhTcu5tTJ?invite=cr-MSx6cDQsNTc1MDM1OTI1",
-            "percent": "100",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Metal",
+            "link": "https://medal.tv/games/geometry-dash/clips/mOnVZXG3ZcPoABtBE?invite=cr-MSxjdUUsNDc0NzU4NTcw&v=27",
+            "percent": 100,
             "hz": 240
         }
     ]
