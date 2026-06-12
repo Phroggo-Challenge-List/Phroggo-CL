@@ -2,10 +2,16 @@
     "id": 142492195,
     "name": "bingo challenge x",
     "author": "PhroggoDude",
-    "creators": ["PhroggoDude],
+    "creators": ["PhroggoDude"],
     "verifier": "Shinigamigmd",
     "verification": "https://youtu.be/RYxiGl0SGn0",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "PhroggoDude",
+            "link": "https://medal.tv/games/geometry-dash/clips/mTJfB2KWFIA_JWV8m?invite=cr-MSw5ZmssMjY1ODQ1NDU5",
+            "percent": 100,
+            "hz": 240"
+        }
     ]
 }
