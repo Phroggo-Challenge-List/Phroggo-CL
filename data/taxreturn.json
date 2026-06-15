@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=APOpVoyjoTI",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "spacezooka",
+            "link": "https://youtu.be/on0m0Q3AQoM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
